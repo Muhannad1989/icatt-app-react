@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* our style */
+.form-control , .table-dark{
+  margin: 0 auto;
+}
+
+.table-dark th{
+  border: none;
+}
+
+.table-dark{
+  width: 97%;
+  border-radius: 7px;
+}
+
+.form-control {
+  width: 50%;
+
+}
+
+.empty {
+
+  color: red;
+}
+
+
